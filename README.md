@@ -20,9 +20,6 @@
 ● 라이브러리/API : AppRTC, opencv
 
 스크린샷
-
-![image](https://user-images.githubusercontent.com/57000871/96368719-71f86880-1190-11eb-8b90-15d4d924f49d.png)
-
-![image](https://user-images.githubusercontent.com/57000871/96368725-7fadee00-1190-11eb-9b6b-0baa6032e569.png)
+![image](https://user-images.githubusercontent.com/57000871/96368740-981e0880-1190-11eb-9b0c-9e87a51f918a.png)
 
 
