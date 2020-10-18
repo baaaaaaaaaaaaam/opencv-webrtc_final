@@ -26,6 +26,8 @@
 
 
 # 스크린샷
+구성도
+![image](https://user-images.githubusercontent.com/57000871/96368846-5d68a000-1191-11eb-8549-21c858357b5a.png)
 
 
 
