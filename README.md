@@ -33,4 +33,7 @@
 
 ![image](https://user-images.githubusercontent.com/57000871/96368740-981e0880-1190-11eb-9b0c-9e87a51f918a.png)
 
+# 영상 링크
+
+https://www.youtube.com/watch?v=SdNIh5uw6SU
 
